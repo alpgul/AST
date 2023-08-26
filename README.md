@@ -1,4 +1,6 @@
 # AST
+- **UglifyJS / uglify-js:**
+  - JavaScript kodunu sıkıştırma ve dönüştürme yeteneği.
 
 - **Acorn:**
   - Hızlı ve hafif ayrıştırıcı.
